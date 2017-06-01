@@ -130,6 +130,20 @@ footer{
   
 }
 
+.work-texto{
+  text-align: center;
+}
+
+
+.img-galeria{
+  max-width: 300px;
+  width: 1000px;
+}
+
+.titulo-proyecto {
+  text-align: center;
+  font-size: 13px;
+}
 
 
 
